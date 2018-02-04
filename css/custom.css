@@ -1,0 +1,103 @@
+.profile{
+/*width:300px;*/
+margin: 0 auto;
+width: 20em;
+margin-top: 60px;
+position: relative;
+
+}
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Pacifico', cursive;
+  font-weight: 700;
+  text-align: center;
+  font-size: 50px;
+  text-transform: none;
+
+}
+
+header.masthead {
+	background: #c9e0ff;
+	color: black;
+}
+
+body {
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  overflow-x: hidden;
+}
+
+.skills{
+	font-family: 'Pacifico', cursive;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+#maincontent{
+	/*background-color: #bf5700; */
+	padding-bottom: 60px;
+	/*color: white;*/
+	background-color: #d1dded;
+}
+
+#about{
+	
+	background-size: 100%;
+	background-color: #003c00;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+#skills{
+	background-color: #FFFFFF;
+	color: #000000;
+
+}
+
+#contact{
+	/*background-color: #77b5fe;*/
+	
+	background-image: url("../img/Chapala.jpg");
+	background-repeat: no-repeat;
+	/*background-size: 100%;*/
+	 background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+#portfolio{
+	background-color: #FFFFFF;
+	/*background-color: #bf5700; */
+	/*background-color: #d1dded;*/
+}
+
+#mainNav{
+	background-color: #000000;
+}
+
+header.masthead .intro-text .name{
+	font-family: 'Pacifico', cursive;
+	text-transform: none;
+	font-size: 70px;
+}
+
+
+a, a.active, a:active, a:focus, a:hover {
+	color: #000000;
+
+}
+
